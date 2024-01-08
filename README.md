@@ -1,2 +1,2 @@
 # Blog
-基于SpringBoot+Vue的个人博客
+基于SpringBoot+Vue+Mysql+SpringSecurity的个人博客
